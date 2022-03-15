@@ -1,5 +1,6 @@
 *.exe
 *.class
 *.java
+*.js
 .vscode
 flutter_application_1
